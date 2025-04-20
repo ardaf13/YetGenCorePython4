@@ -1,4 +1,1 @@
-Ekmek, 10TL
-Ekmek, 10TL
-Su, 10TL
-, 
+ekmek, 10TL
